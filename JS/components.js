@@ -6,8 +6,8 @@ class siteHeader extends HTMLElement {
 
         <nav>
           <ul>
-            <li><a href="#home">Home</a></li>
-            <li><a href="#hiragana-katakana">Hiragana and Katakana</a></li>
+            <li><a href="./index.html">Home</a></li>
+            <li><a href="./H&K.html">Hiragana and Katakana</a></li>
             <li><a href="#vocabulary">Vocabulary</a></li>
             <li><a href="#kanji">Kanji</a></li>
             <li><a href="#everyday-conversation">Everyday Conversation</a></li>
